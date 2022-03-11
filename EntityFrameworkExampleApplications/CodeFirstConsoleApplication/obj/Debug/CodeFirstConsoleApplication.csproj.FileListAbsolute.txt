@@ -1,0 +1,10 @@
+C:\Users\abaydar\source\repos\EntityFrameworkExampleApplications\CodeFirstConsoleApplication\bin\Debug\CodeFirstConsoleApplication.exe.config
+C:\Users\abaydar\source\repos\EntityFrameworkExampleApplications\CodeFirstConsoleApplication\bin\Debug\CodeFirstConsoleApplication.exe
+C:\Users\abaydar\source\repos\EntityFrameworkExampleApplications\CodeFirstConsoleApplication\bin\Debug\CodeFirstConsoleApplication.pdb
+C:\Users\abaydar\source\repos\EntityFrameworkExampleApplications\CodeFirstConsoleApplication\bin\Debug\EntityFramework.dll
+C:\Users\abaydar\source\repos\EntityFrameworkExampleApplications\CodeFirstConsoleApplication\bin\Debug\EntityFramework.xml
+C:\Users\abaydar\source\repos\EntityFrameworkExampleApplications\CodeFirstConsoleApplication\obj\Debug\CodeFirstConsoleApplication.csprojAssemblyReference.cache
+C:\Users\abaydar\source\repos\EntityFrameworkExampleApplications\CodeFirstConsoleApplication\obj\Debug\CodeFirstConsoleApplication.csproj.CoreCompileInputs.cache
+C:\Users\abaydar\source\repos\EntityFrameworkExampleApplications\CodeFirstConsoleApplication\obj\Debug\CodeFirstConsoleApplication.csproj.CopyComplete
+C:\Users\abaydar\source\repos\EntityFrameworkExampleApplications\CodeFirstConsoleApplication\obj\Debug\CodeFirstConsoleApplication.exe
+C:\Users\abaydar\source\repos\EntityFrameworkExampleApplications\CodeFirstConsoleApplication\obj\Debug\CodeFirstConsoleApplication.pdb

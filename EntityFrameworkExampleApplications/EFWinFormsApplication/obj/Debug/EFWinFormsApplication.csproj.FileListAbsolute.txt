@@ -1,0 +1,13 @@
+C:\Users\abaydar\source\repos\EntityFrameworkExampleApplications\EFWinFormsApplication\bin\Debug\EFWinFormsApplication.exe.config
+C:\Users\abaydar\source\repos\EntityFrameworkExampleApplications\EFWinFormsApplication\bin\Debug\EFWinFormsApplication.exe
+C:\Users\abaydar\source\repos\EntityFrameworkExampleApplications\EFWinFormsApplication\bin\Debug\EFWinFormsApplication.pdb
+C:\Users\abaydar\source\repos\EntityFrameworkExampleApplications\EFWinFormsApplication\bin\Debug\EntityFramework.dll
+C:\Users\abaydar\source\repos\EntityFrameworkExampleApplications\EFWinFormsApplication\bin\Debug\EntityFramework.xml
+C:\Users\abaydar\source\repos\EntityFrameworkExampleApplications\EFWinFormsApplication\obj\Debug\EFWinFormsApplication.csprojAssemblyReference.cache
+C:\Users\abaydar\source\repos\EntityFrameworkExampleApplications\EFWinFormsApplication\obj\Debug\EFWinFormsApplication.Form1.resources
+C:\Users\abaydar\source\repos\EntityFrameworkExampleApplications\EFWinFormsApplication\obj\Debug\EFWinFormsApplication.Properties.Resources.resources
+C:\Users\abaydar\source\repos\EntityFrameworkExampleApplications\EFWinFormsApplication\obj\Debug\EFWinFormsApplication.csproj.GenerateResource.cache
+C:\Users\abaydar\source\repos\EntityFrameworkExampleApplications\EFWinFormsApplication\obj\Debug\EFWinFormsApplication.csproj.CoreCompileInputs.cache
+C:\Users\abaydar\source\repos\EntityFrameworkExampleApplications\EFWinFormsApplication\obj\Debug\EFWinFormsApplication.csproj.CopyComplete
+C:\Users\abaydar\source\repos\EntityFrameworkExampleApplications\EFWinFormsApplication\obj\Debug\EFWinFormsApplication.exe
+C:\Users\abaydar\source\repos\EntityFrameworkExampleApplications\EFWinFormsApplication\obj\Debug\EFWinFormsApplication.pdb
